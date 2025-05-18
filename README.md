@@ -9,7 +9,7 @@
      <div>
           <img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=white" />
           <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=C&logoColor=white" />
-     </div>
+     </div><br>
      <div>
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
