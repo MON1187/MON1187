@@ -21,3 +21,10 @@
  
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MON1187&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cleans77)](https://solved.ac/cleans77/)
+
+
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 레포지토리 </h2> <br> 
+
+개발에 참여하는 프로젝트 중 당당 맡은 파트의 코드들만 따로 분류해 두었습니다.   
+
+일부 프로젝트는 비밀유지계약 이슈로 비공개를 유지 됩니다.
