@@ -2,7 +2,7 @@
 * 읽어 주셔서 감사합니다~.
 
 
- <div style="text-align: left;">
+ 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
 
 
@@ -15,7 +15,6 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=Gulp&logoColor=white">
-    </div>
     
     
  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ other </h2> <br> 
