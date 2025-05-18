@@ -2,7 +2,7 @@
 읽어 주셔서 감사합니다~.
 
 
- 
+ <br>
  <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🕛 Tech Stacks 🛠️ </h2>
     <div style="margin: ; text-align: left;" "text-align: left;">
@@ -16,13 +16,19 @@
           <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=Gulp&logoColor=white">
      </div>
     </div>
-    
+   
+  <br>
+  <br>
+  <br>
+  
  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🕝 other ♻️ </h2> <br> 
  
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MON1187&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cleans77)](https://solved.ac/cleans77/)
 
 
+<br>
+<br>
 <h2 style="border-bottom: 1px; color: #282d33;"> 🕛 레포지토리 📃 </h2>
 
 개발에 참여하는 프로젝트 중 당당 맡은 파트의 코드들만 따로 분류해 두었습니다.   
