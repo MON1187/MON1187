@@ -1,8 +1,7 @@
-test Message 
+즐거운 게임을 추구하는 개발자 입니다.
+읽어 주셔서 감사합니다~.
 
-Using Tool
 
-Unity, C#
 
  <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
