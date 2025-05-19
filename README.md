@@ -13,7 +13,7 @@
      <div>
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=Gulp&logoColor=white">
+          <img src="https://img.shields.io/badge/GitLab-CF4647?style=for-the-badge&logo=GitLab&logoColor=white">
           <img src="https://img.shields.io/badge/Fork-CF4247?style=for-the-badge&logo=Fork&logoColor=white">
      </div>
     </div>
